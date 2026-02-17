@@ -47,6 +47,7 @@
 - 🔄 **[stripe-sync-engine](https://github.com/ashutoshpw/stripe-sync-engine)** - Sync Stripe data to PostgreSQL in real-time (webhooks, backfill, revalidation)
 - ⛓️ **[x402-vechain](https://github.com/ashutoshpw/x402-vechain)** - VeChain x402 payment protocol integration (WIP)
 - 🌐 **[js-community](https://github.com/ashutoshpw/js-community)** - Community platform for JavaScript developers (WIP)
+- 📜 **[blockchain-helper](https://blockchain-helper.netlify.app/)** - Deploy and interact with custom smart contracts (ERC20, ERC721, ERC1155)
 
 ### Packages
 
