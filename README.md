@@ -50,6 +50,7 @@
 - 📜 **[blockchain-helper](https://blockchain-helper.netlify.app/)** - Deploy and interact with custom smart contracts (ERC20, ERC721, ERC1155)
 - 🍎 **[asc-cli](https://github.com/ashutoshpw/asc-cli)** - App Store Connect CLI for managing apps, builds, TestFlight, certificates, and more
 - 🗄️ **[s3-lfs](https://github.com/ashutoshpw/s3-lfs)** - Git LFS custom transfer agent that stores LFS files directly in S3-compatible storage (AWS, MinIO, R2, GCS)
+- ⚡ **[google-cloud-billing-killswitch](https://github.com/ashutoshpw/google-cloud-billing-killswitch)** - Automated GCP billing protection — disables billing when monthly spend hits the configured budget cap
 
 ### Packages
 
