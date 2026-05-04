@@ -48,12 +48,16 @@
 - ⛓️ **[x402-vechain](https://github.com/ashutoshpw/x402-vechain)** - VeChain x402 payment protocol integration (WIP)
 - 🌐 **[js-community](https://github.com/ashutoshpw/js-community)** - Community platform for JavaScript developers (WIP)
 - 📜 **[blockchain-helper](https://blockchain-helper.netlify.app/)** - Deploy and interact with custom smart contracts (ERC20, ERC721, ERC1155)
+- 🍎 **[asc-cli](https://github.com/ashutoshpw/asc-cli)** - App Store Connect CLI for managing apps, builds, TestFlight, certificates, and more
+- 🗄️ **[s3-lfs](https://github.com/ashutoshpw/s3-lfs)** - Git LFS custom transfer agent that stores LFS files directly in S3-compatible storage (AWS, MinIO, R2, GCS)
 
 ### Packages
 
 - 🎬 **[mcp-video-analyser](https://www.npmjs.com/package/mcp-video-analyser)** - MCP server for video analysis using Google Gemini and Moonshot Kimi AI
 - 🔐 **[cf-access-auth](https://www.npmjs.com/package/cf-access-auth)** - Authenticate your application using Cloudflare Access
 - 🔌 **[path-to-port](https://www.npmjs.com/package/path-to-port)** - Get a unique port number based on a file path
+- 📊 **[stripe-cli](https://www.npmjs.com/package/@w3devx/stripe-cli)** - Read-only Stripe CLI (xstripe) for browsing account data with caching, profiles, and Search API support
+- 🖥️ **[tmux-web](https://www.npmjs.com/package/tmux-web)** - Access your tmux sessions from the browser via a WebSocket PTY
 
 ## Technologies & Tools
 
